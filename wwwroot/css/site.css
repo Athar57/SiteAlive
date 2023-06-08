@@ -1,0 +1,39 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.navImgLine {
+    border-right: 3px solid white;
+    height: 50px;
+    margin-left:1px;
+}
+.textNav{
+    color:white
+}
+.colorTextCode {
+    color: #285482
+}
+.navColor {
+    background-color: #285482
+}
+.navTextColor{
+    color:white;
+}
+.colorImgCode {
+    background-color: #285482
+}
